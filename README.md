@@ -1,7 +1,7 @@
 # Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN
 ### [[Paper](https://pose-with-style.github.io/asset/paper.pdf)] [[Project Website](https://pose-with-style.github.io/)] [[Output resutls](https://pose-with-style.github.io/results.html)]
 
-Official Pytorch implementation for **Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN**. Please contact Badour AlBahar (badour@vt.edu) if you have any questions.
+Official Pytorch implementation for **Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN**.
 
 <p align='center'>
 <img src='https://pose-with-style.github.io/images/teaser.jpg' width='900'/>
